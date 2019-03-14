@@ -1,0 +1,47 @@
+<http://solicucu/person/#chacha> <http://solicucu/vocab/person_phone> "15200823423" .
+<http://solicucu/person/#chacha> <http://solicucu/vocab/person_age> "19"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://solicucu/person/#chacha> <http://solicucu/vocab/person_name> "scc" .
+<http://solicucu/person/#chacha> <http://solicucu/vocab/person_username> "chacha" .
+<http://solicucu/person/#chacha> <http://www.w3.org/2000/01/rdf-schema#label> "person #chacha" .
+<http://solicucu/person/#chacha> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://solicucu/vocab/person> .
+<http://solicucu/person/#littlejun> <http://solicucu/vocab/person_phone> "15200823422" .
+<http://solicucu/person/#littlejun> <http://solicucu/vocab/person_age> "19"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://solicucu/person/#littlejun> <http://solicucu/vocab/person_name> "lhj" .
+<http://solicucu/person/#littlejun> <http://solicucu/vocab/person_username> "littlejun" .
+<http://solicucu/person/#littlejun> <http://www.w3.org/2000/01/rdf-schema#label> "person #littlejun" .
+<http://solicucu/person/#littlejun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://solicucu/vocab/person> .
+<http://solicucu/person/#yuqin> <http://solicucu/vocab/person_phone> "15768169184" .
+<http://solicucu/person/#yuqin> <http://solicucu/vocab/person_age> "19"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://solicucu/person/#yuqin> <http://solicucu/vocab/person_name> "yuqing" .
+<http://solicucu/person/#yuqin> <http://solicucu/vocab/person_username> "yuqin" .
+<http://solicucu/person/#yuqin> <http://www.w3.org/2000/01/rdf-schema#label> "person #yuqin" .
+<http://solicucu/person/#yuqin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://solicucu/vocab/person> .
+<http://solicucu/user/#chacha> <http://solicucu/vocab/user_password> "888888" .
+<http://solicucu/user/#chacha> <http://solicucu/vocab/user_username> "chacha" .
+<http://solicucu/user/#chacha> <http://www.w3.org/2000/01/rdf-schema#label> "user #chacha" .
+<http://solicucu/user/#chacha> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://solicucu/vocab/user> .
+<http://solicucu/user/#littlejun> <http://solicucu/vocab/user_password> "888888" .
+<http://solicucu/user/#littlejun> <http://solicucu/vocab/user_username> "littlejun" .
+<http://solicucu/user/#littlejun> <http://www.w3.org/2000/01/rdf-schema#label> "user #littlejun" .
+<http://solicucu/user/#littlejun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://solicucu/vocab/user> .
+<http://solicucu/user/#yuqin> <http://solicucu/vocab/user_password> "888888" .
+<http://solicucu/user/#yuqin> <http://solicucu/vocab/user_username> "yuqin" .
+<http://solicucu/user/#yuqin> <http://www.w3.org/2000/01/rdf-schema#label> "user #yuqin" .
+<http://solicucu/user/#yuqin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://solicucu/vocab/user> .
+<http://solicucu/vocab/user_password> <http://www.w3.org/2000/01/rdf-schema#label> "user password" .
+<http://solicucu/vocab/user_password> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
+<http://solicucu/vocab/person_age> <http://www.w3.org/2000/01/rdf-schema#label> "person age" .
+<http://solicucu/vocab/person_age> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
+<http://solicucu/vocab/person> <http://www.w3.org/2000/01/rdf-schema#label> "person" .
+<http://solicucu/vocab/person> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Class> .
+<http://solicucu/vocab/user> <http://www.w3.org/2000/01/rdf-schema#label> "user" .
+<http://solicucu/vocab/user> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Class> .
+<http://solicucu/vocab/person_username> <http://www.w3.org/2000/01/rdf-schema#label> "person username" .
+<http://solicucu/vocab/person_username> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
+<http://solicucu/vocab/person_phone> <http://www.w3.org/2000/01/rdf-schema#label> "person phone" .
+<http://solicucu/vocab/person_phone> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
+<http://solicucu/vocab/person_name> <http://www.w3.org/2000/01/rdf-schema#label> "person name" .
+<http://solicucu/vocab/person_name> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
+<http://solicucu/vocab/user_username> <http://www.w3.org/2000/01/rdf-schema#label> "user username" .
+<http://solicucu/vocab/user_username> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
+<http://www.w3.org/2000/01/rdf-schema#label> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
